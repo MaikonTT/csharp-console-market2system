@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev-Takeshi\\source\\repos\\csharp-console-market2system\\csharp-console-market2system\\csharp-console-market2system.csproj",
+      "projectUniqueName": "C:\\Users\\dev-Takeshi\\Documents\\GitHub\\csharp-console-market2system\\csharp-console-market2system\\csharp-console-market2system.csproj",
       "projectName": "csharp-console-market2system",
-      "projectPath": "C:\\Users\\dev-Takeshi\\source\\repos\\csharp-console-market2system\\csharp-console-market2system\\csharp-console-market2system.csproj",
+      "projectPath": "C:\\Users\\dev-Takeshi\\Documents\\GitHub\\csharp-console-market2system\\csharp-console-market2system\\csharp-console-market2system.csproj",
       "packagesPath": "C:\\Users\\dev-Takeshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev-Takeshi\\source\\repos\\csharp-console-market2system\\csharp-console-market2system\\obj\\",
+      "outputPath": "C:\\Users\\dev-Takeshi\\Documents\\GitHub\\csharp-console-market2system\\csharp-console-market2system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

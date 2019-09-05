@@ -9,3 +9,14 @@ C:\Users\dev-Takeshi\source\repos\csharp-console-market2system\csharp-console-ma
 C:\Users\dev-Takeshi\source\repos\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.AssemblyInfo.cs
 C:\Users\dev-Takeshi\source\repos\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.dll
 C:\Users\dev-Takeshi\source\repos\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.pdb
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.csprojAssemblyReference.cache
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.csproj.CoreCompileInputs.cache
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.AssemblyInfoInputs.cache
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.AssemblyInfo.cs
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.dll
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\obj\Debug\netcoreapp2.1\csharp-console-market2system.pdb
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\bin\Debug\netcoreapp2.1\csharp-console-market2system.deps.json
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\bin\Debug\netcoreapp2.1\csharp-console-market2system.runtimeconfig.json
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\bin\Debug\netcoreapp2.1\csharp-console-market2system.runtimeconfig.dev.json
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\bin\Debug\netcoreapp2.1\csharp-console-market2system.dll
+C:\Users\dev-Takeshi\Documents\GitHub\csharp-console-market2system\csharp-console-market2system\bin\Debug\netcoreapp2.1\csharp-console-market2system.pdb
